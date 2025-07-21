@@ -96,7 +96,7 @@ a {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #434455;
+        
 }
 /* TEAM */
 .team {
@@ -126,7 +126,7 @@ a {
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #434455;
+        
         
 }
 .team-item {
@@ -135,7 +135,7 @@ a {
 .portfolio-title {
 
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -154,5 +154,16 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    
+}
+.page-footer{
+    background-color: #2e2f42;
+    
+}
+.footer-text {
+    
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
 }
